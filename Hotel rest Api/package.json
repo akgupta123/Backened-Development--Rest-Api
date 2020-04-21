@@ -1,0 +1,24 @@
+{
+  "name": "hotel-rest-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "Start": "server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-mongoose": "^0.1.0",
+    "mongoose": "^5.5.7",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.0"
+  },
+  "description": ""
+}
